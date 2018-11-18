@@ -1,0 +1,14 @@
+.container {
+    margin: auto auto;
+    position: center;
+	max-width: 600px;
+}
+
+.button {
+    height: 10%;
+    width: 25%;
+}
+
+body {
+    text-align: center;
+}
